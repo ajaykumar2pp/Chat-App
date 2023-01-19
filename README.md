@@ -32,7 +32,8 @@ for that contact..<br/>
 
 
 ## 🔗 Links
-> ## CheckOut the website link  https://albumlist-reactjs.netlify.app/
+> ## CheckOut the website link  https://chat-app-raectjs.netlify.app/
+
 <br/>
 <br/>
 ## 💻 Screens
