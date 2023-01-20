@@ -32,7 +32,7 @@ for that contact..<br/>
 
 
 ## 🔗 Links
-> ## CheckOut the website link  https://chat-app-raectjs.netlify.app/
+> ## CheckOut the website link  https://chat-app-reactjs-ajay.netlify.app/
 
 <br/>
 <br/>
